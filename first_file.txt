@@ -1,3 +1,5 @@
 This is my first text-file.
 
-Holy Cow this is cool!
+Added a  change after initial commit.
+
+/*Comment here! */
