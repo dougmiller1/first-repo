@@ -1,3 +1,7 @@
 This is my third text file.
 
 An edit after my initial commit.
+
+Making another change.
+
+This is another edit to see the difference.
